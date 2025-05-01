@@ -3,6 +3,8 @@
 
 이 문서는 GitHub Actions, S3, CodeDeploy, EC2, Nginx를 이용한 무중단 배포 환경 구축을 위해 필요한 EC2 초기 설정 및 Nginx 프록시 설정 방법을 안내합니다.
 
+이 리드미는 이제 제겁니다. 제 마음대로 할 수 있는 겁니다.
+
 [`세션 자료 바로가기`](https://www.miricanvas.com/v/14jjqb9)
 
 ---
